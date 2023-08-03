@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **makamamogh23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Xbe5Aj3Qw6lol3eeAqKiBjBm7xMVizQ0/view?usp=sharing](https://drive.google.com/file/d/1Xbe5Aj3Qw6lol3eeAqKiBjBm7xMVizQ0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gwJRY4eauacSR2O2zHaVqSPJeYLJ5Yiz/view?usp=sharing)
 
 ## Connect 🤝
 <p align="left">
