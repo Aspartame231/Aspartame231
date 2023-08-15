@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Amogh A M</h1>
-<h3 align="center">A Final year CSE and Data Science student | Solved 450+ LeetCode | 5⭐ Java in HackerRank</h3>
+<h3 align="center">A Final year CSE and Data Science student | Solved 500+ LeetCode | 5⭐ Java in HackerRank</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
